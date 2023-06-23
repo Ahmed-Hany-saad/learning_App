@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../componant/catigores.dart';
+import '../componant/ColorCatigores.dart';
 
 // ignore: camel_case_types
 class colors1 extends StatelessWidget {

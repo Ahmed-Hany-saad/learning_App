@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../componant/catigores.dart';
+import '../componant/FamilyCatigores.dart';
 
 // ignore: camel_case_types
 class family_members extends StatefulWidget {

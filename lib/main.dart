@@ -4,7 +4,7 @@ import 'package:learning_app/screens/family_members.dart';
 import 'package:learning_app/screens/numbers.dart';
 import 'package:learning_app/screens/phrases.dart';
 
-import 'componant/catigores.dart';
+import 'componant/AllCatigores.dart';
 
 void main() {
   runApp(const LearningApp());

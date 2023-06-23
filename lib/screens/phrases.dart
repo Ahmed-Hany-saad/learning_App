@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:learning_app/componant/catigores.dart';
+
+import '../componant/PhrasesCatigory.dart';
 
 // ignore: camel_case_types
 class phrases extends StatelessWidget {
