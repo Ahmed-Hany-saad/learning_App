@@ -49,6 +49,6 @@ This is a Flutter app designed to help you learn numbers, family members, colors
 
 <h2>Contact</h2>
 
-<p>If you have any questions or suggestions, feel free to reach out to me at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+<p>If you have any questions or suggestions, feel free to reach out to me at <a href="ahhasa842@gmail.com">ahhasa842@gmail.com</a>.</p>
 
 <p>Enjoy learning with the app!</p>
