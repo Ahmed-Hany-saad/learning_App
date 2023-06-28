@@ -34,13 +34,9 @@ This is a Flutter app designed to help you learn numbers, family members, colors
 <h2>Dependencies</h2>
 
 <ul>
-  <li><p>
-    dependencies:
-  flutter:
-    sdk: flutter
-  cupertino_icons: ^1.0.2
-  audioplayers: ^0.20.1
-</p> <!-- Add the version number of your audio player package --></li>
+  <li><code>flutter: sdk: flutter</code></li>
+  <li><code>cupertino_icons: ^1.0.2</code></li>
+  <li><code>audioplayers: ^0.20.1</code></li>
 </ul>
 
 <h2>License</h2>
